@@ -35,9 +35,6 @@ Anti-Theft BT is designed to protect your luggage and belongings. It works on Bl
 - You can see the missing devices from notifications even when the app is password protected. But you cannot stop the service until you have entered the correct password.
 
 
-
-Keep in mind this is still a work in progress. There are thousands of things to do and I hope I'll have enough time to develop all of the features I have in mind :)
-
 <!-- | [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)]()  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)] | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)] |
 |:---:|:---:|:---:| -->
 
@@ -52,9 +49,6 @@ Keep in mind this is still a work in progress. There are thousands of things to 
 ##Installation
 Download the repositary and build using android studio.
 
-##Download
-Download AntiTheft-BT apk file from [here](https://sourceforge.net/projects/antitheftbt/files/Anti-Theft%20BT.apk/download).
-
 ##Software Used
 
 It has been developed using the following software:
@@ -62,8 +56,3 @@ It has been developed using the following software:
   * Android SDK 4 (android-4)
   * Android Development Tools (ADT) 8.0.1
   * Eclipse IDE 3.6
-
-Go the [Android Developers website][android_developers_website] for complete installation instructions.
-
-
-[android_developers_website]: http://d.android.com/sdk/installing.html
