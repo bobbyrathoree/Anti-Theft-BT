@@ -1,10 +1,10 @@
-##Anti-TheftBT
+# Anti-TheftBT
 
 [![](https://cloud.githubusercontent.com/assets/5080310/13058029/3b984b52-d446-11e5-8a91-dd9aac989359.png)](https://cloud.githubusercontent.com/assets/5080310/13058029/3b984b52-d446-11e5-8a91-dd9aac989359.png)
 
 Anti-Theft BT is designed to protect your luggage and belongings. It works on Bluetooth so it consumes very less battery. Once you start the service in app, the app start scanning your luggage. Whenever, your luggage leaves your proximity the app raises an alarm to let you know that a luggage has gone missing. The luggage may have an 'embedded bluetooth device' (like HC-06 / HC-05) or, a mobile phone with bluetooth switched ON which can be used as a beacon. When you start Anti-Theft BT (ATBT) for the first time, it asks you for the devices you want to protect. Once you save the list of chosen devices, it is accessible to you until you replace it with a new list of chosen devices (from settings).
 
-##Features
+# Features
 
 - Before starting the ATBT service, please ensure that every device in the list is able to get connected to your device. This can be done by tapping the device name in the list. If the icon against it tuns into a green tick, then that device is able to connect to your mobile. If the icon remains red cross, it means there is a problem with the target device. You need to give permissions to target device to automatically connect to your device. If all the devices in the Chosen Device List have green tick, you are good to go! Once you tap the 'Start Service' button, the scanning service starts.
 
@@ -46,10 +46,10 @@ Anti-Theft BT is designed to protect your luggage and belongings. It works on Bl
 <!-- [![](https://cloud.githubusercontent.com/assets/5080310/13068987/8b03c30a-d4a6-11e5-83a4-f6b8b7090b4a.png)](https://cloud.githubusercontent.com/assets/5080310/13068987/8b03c30a-d4a6-11e5-83a4-f6b8b7090b4a.png) -->
 
 
-##Installation
+# Installation
 Download the repositary and build using android studio.
 
-##Software Used
+# Software Used
 
 It has been developed using the following software:
 
